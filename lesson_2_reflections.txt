@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you intialize a git repository it creates a repository without any commits
+I need to do it becuase the computer allows the use rto manually create commits
