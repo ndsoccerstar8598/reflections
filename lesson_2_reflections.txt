@@ -10,3 +10,8 @@ The only thing it allows us to do is to commit the files into the repository
 How can you use the staging area to make sure you have one commit per logical change?
 The staging area allows the user to see the changes they have made to the program before they commit
 The staging area serves as the middle stage between adding and commiting to make sure it is logical
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches will allow the user to make changes to the program without having to worry about ruining the whole program
+branches can allow the user to make different game modes or the game in different languages
+if one of these modes doesn't work properly you can always just revert back to a previous branch that did work
