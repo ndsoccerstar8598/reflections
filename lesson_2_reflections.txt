@@ -20,3 +20,9 @@ How do the diagrams help you visualize the branch structure?
 The diagrams help me to understand which commits git log decides to show on the screen
 it also helps show how when you make a commit where the head goes 
 this diagram shows how git thinks through the commits and helps the user better understnad how git worked
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches combines the code that was added from each of the branches
+We represent it the way we do because the merged branch now has two parents
+The merge checks which lines of code were there originally and which were added and deleted
+From there it is able to determine what to add to the new branch
