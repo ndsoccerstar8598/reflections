@@ -26,3 +26,10 @@ Merging two branches combines the code that was added from each of the branches
 We represent it the way we do because the merged branch now has two parents
 The merge checks which lines of code were there originally and which were added and deleted
 From there it is able to determine what to add to the new branch
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros: sometimes Git will actually auto merge and you wont have to worry about manually doing it 
+auto merging saves a lot of time and hastle 
+you do not have to look back and compare the two files to see which ones should be kept
+cons: some of the merges may not make logical sense 
+an auto merge can introduce a bug into the program that you were not expecting
