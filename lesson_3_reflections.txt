@@ -3,4 +3,4 @@ when working with many other people on a collabrative project it would be helpfu
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You would want to puoll changes manually because people might make changes to the remote repository that you do not want in your git
-If Git automatically stayed up to date you would have commits in your git that you have never seen before
+If Git automatically stayed up to date you would have commits in your git that you have never seen before.
