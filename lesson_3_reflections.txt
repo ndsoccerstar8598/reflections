@@ -30,3 +30,14 @@ When running git fetch it will allow you to compare the changes made
 locally and on the remote
 If someone else makes a change on the remote you can compare what they
 changed to what was previously on the remote
+
+How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+Without using Git or GitHub I would have to collaborate with other
+people by physically showing them my computer and seeing what needs
+to be changed
+This would make life a lot harder as we would have to be together
+to fix and compare changes
+It would only be easier to colloborate on merge and pulls if there is\
+an error or merge conflict
+
