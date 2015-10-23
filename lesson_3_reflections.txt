@@ -41,3 +41,14 @@ to fix and compare changes
 It would only be easier to colloborate on merge and pulls if there is\
 an error or merge conflict
 
+When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+You would want to make a seperate branch maybe when creating an
+experimental idea so that you dont mess up the master branch
+When doing this though you will need to push to GitHub, create a 
+pull request, fix any changes by pulling back to your computer,
+than pushing back to GitHub and then merging the branch with master
+If you made the chagnes directly to the master branch, you would not
+have to take all these steps but you also risk ruining the master
+branch.
+
